@@ -1,0 +1,5 @@
+baseURL: http://LowPea.github.io/
+languageCode: en-uk
+title: LowPea
+theme: PaperMod
+publishdir: docs

@@ -1,5 +1,5 @@
-baseURL: https://lowpea.github.io/
-languageCode: en-uk
+baseURL: /
+languageCode: en-us
 theme: PaperMod
 publishdir: docs
 

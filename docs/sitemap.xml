@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lowpea.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2024-03-09T19:20:06+00:00</lastmod>
   </url><url>
-    <loc>https://lowpea.github.io/posts/hello-world/</loc>
+    <loc>/posts/hello-world/</loc>
     <lastmod>2024-03-09T19:20:06+00:00</lastmod>
   </url><url>
-    <loc>https://lowpea.github.io/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2024-03-09T19:20:06+00:00</lastmod>
   </url><url>
-    <loc>https://lowpea.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://lowpea.github.io/series/</loc>
+    <loc>/series/</loc>
   </url><url>
-    <loc>https://lowpea.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

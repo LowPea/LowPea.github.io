@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title></title>
-    <link>/</link>
+    <link>https://lowpea.github.io/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Mar 2024 19:20:06 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lowpea.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>/posts/hello-world/</link>
+      <link>https://lowpea.github.io/posts/hello-world/</link>
       <pubDate>Sat, 09 Mar 2024 19:20:06 +0000</pubDate>
-      <guid>/posts/hello-world/</guid>
+      <guid>https://lowpea.github.io/posts/hello-world/</guid>
       <description>Hello, World! After much consideration, I have decided to make some sort of blog that I can journal in. This is more for me to keep track of everything.</description>
     </item>
   </channel>

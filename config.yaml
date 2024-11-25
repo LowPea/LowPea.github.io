@@ -28,10 +28,10 @@ params:
   comments: false
 
   env: production
-  author: Matthew W
+  author: LowPea
 
   homeInfoParams:
-    Title: Hi there, I'm Matthew.
+    Title: Hi there, I'm LowPea.
     Content: >
       - University Student
       - <br>
